@@ -12,7 +12,7 @@ Built with **AWS Lambda**, **API Gateway**, **S3**, **DynamoDB**, and **CloudWat
 ---
 ## 🏗️ Architecture Diagram
 
-![Architecture Diagram](AWS diagram.png)
+![Architecture Diagram](AWS-diagram.png)
 ---
 
 ## 🏗️ Architecture Overview
